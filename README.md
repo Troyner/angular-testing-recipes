@@ -7,3 +7,8 @@ Exemplificando testes unitários para desenvolvimento com Angular2+, utilizando:
 - Karma
 - e2e
 
+## Build:
+npm install
+
+## Rodar testes:
+npm test
